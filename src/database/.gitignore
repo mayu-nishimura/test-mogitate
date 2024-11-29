@@ -1,0 +1,5 @@
+# Ignore SQLite database files
+*.sqlite*
+
+# Ignore MySQL data directory
+docker/mysql/data/
